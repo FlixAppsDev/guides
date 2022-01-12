@@ -1,0 +1,70 @@
+{
+
+
+  "ads":[
+    {
+      "AdmobBanner":"ca-app-pub-3940256099942544/6300978111",
+      "AdmobInterstitial":"ca-app-pub-3940256099942544/1033173712",
+      "AdmobNative":"ca-app-pub-3940256099942544/2247696110",
+	  
+	   "FaceBanner":"IMG_16_9_APP_INSTALL#645522883286327_650760236095925",
+      "FaceInterstitial":"IMG_16_9_APP_INSTALL#645522883286327_650761136095835",
+      "FaceNative":"IMG_16_9_APP_INSTALL#645522883286327_651620499343232",
+	  	  
+      "UnityGame":"",
+      "UnityInterstitial":"Interstitial_Android",
+	  "UnityBanner":"Banner_Android",
+	  
+	  "ApplovinInterstitial":"",
+	  "ApplovinBanner":"",
+      
+	   "Switch":"admob",
+
+      "Link": "https://practical-euclid-911b75.netlify.app/"
+     
+	
+	  
+	  
+	  //"Switch":"admob" or "Switch":"fan" or "Switch":"max" or "Switch":"unity" hado bach tbadal les ads li baghi nta
+	  
+	       
+
+    }
+  
+  ]
+  ,
+   "list": [
+    {
+      "title": "Squid Game",
+	  "images": "https://static3.cbrimages.com/wordpress/wp-content/uploads/2021/10/Squid-Game.jpeg",
+      "description": "Tentés par un prix alléchant en cas de victoire, des centaines de joueurs désargentés acceptent de s'affronter lors de jeux pour enfants aux enjeux mortels."
+
+    },
+	
+    {
+      "title": "Squid Game1",
+	  "images": "https://static3.cbrimages.com/wordpress/wp-content/uploads/2021/10/Squid-Game.jpeg",
+      "description": "Tentés par un prix alléchant en cas de victoire, des centaines de joueurs désargentés acceptent de s'affronter lors de jeux pour enfants aux enjeux mortels."
+
+    },
+	{
+      "title": "Squid Game2",
+	  "images": "https://static3.cbrimages.com/wordpress/wp-content/uploads/2021/10/Squid-Game.jpeg",
+      "description": "Tentés par un prix alléchant en cas de victoire, des centaines de joueurs désargentés acceptent de s'affronter lors de jeux pour enfants aux enjeux mortels."
+
+    },
+	{
+      "title": "Squid Game",
+	  "images": "https://static3.cbrimages.com/wordpress/wp-content/uploads/2021/10/Squid-Game.jpeg",
+      "description": "Tentés par un prix alléchant en cas de victoire, des centaines de joueurs désargentés acceptent de s'affronter lors de jeux pour enfants aux enjeux mortels."
+
+    },
+	{
+      "title": "Squid Game",
+	  "images": "https://static3.cbrimages.com/wordpress/wp-content/uploads/2021/10/Squid-Game.jpeg",
+      "description": "Tentés par un prix alléchant en cas de victoire, des centaines de joueurs désargentés acceptent de s'affronter lors de jeux pour enfants aux enjeux mortels."
+
+    }
+
+  ]
+ }
