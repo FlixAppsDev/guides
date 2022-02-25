@@ -1,5 +1,7 @@
 {
-   "ads":{
+   "ads":
+   [
+      {
       "AdmobBanner":"ca-app-pub-3940256099942544/6300978111",
       "AdmobInterstitial":"ca-app-pub-3940256099942544/1033173712",
       "FaceBanner":"IMG_16_9_APP_INSTALL#366986694895415_366986861562065",
@@ -13,4 +15,7 @@
       "ApplovinBannerMax":"",
       "Network":"admob"
    }
+  ]
+
+
 }
