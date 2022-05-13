@@ -36,8 +36,8 @@
 
       "UrlChat" : "http://147.182.128.234/chat/index.html#!/messages/",
 	  
-	  "UrlBanner" : "https://www.youtube.com/watch?v=f7AwXFziieI&ab_channel=Lyricsmusic",
-	  "UrlImage" : "https://blog.hubspot.com/hubfs/How%20to%20Explain%20Banner%20Ads%20to%20Anyone-5.png",
+	"UrlBanner" : "https://www.youtube.com/watch?v=f7AwXFziieI&ab_channel=Lyricsmusic",		
+	"ImgBanner" : "https://blog.hubspot.com/hubfs/How%20to%20Explain%20Banner%20Ads%20to%20Anyone-5.png",
 
       "NetworkBannerTop":"admob",
       "NetworkBannerBottom":"fan",
