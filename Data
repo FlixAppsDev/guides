@@ -1,0 +1,63 @@
+{
+
+ "versionCode": 1,
+ "cancellable": false,
+ "title":"New Version",
+ "message":"We have a technician problem please install new version from bellow button and remove this app",
+ "img":"https://img.freepik.com/free-vector/new-update-banner-template-white-background-illustration-store-online-shop-web-app_175838-885.jpg?w=2000",
+ "url": "https://flixappsdev.github.io/flix/1app-debug.apk",
+
+  "data":[
+    {
+      "AdmobBanner":"ca-app-pub-3940256099942544/6300978111",
+      "AdmobInterstitial":"ca-app-pub-3940256099942544/1033173712",
+      "AdmobReward":"ca-app-pub-3940256099942544/5224354917",
+	  
+	   
+      "FaceBanner":"IMG_16_9_APP_INSTALL#366986694895415_366986861562065",
+      "FaceInterstitial":"IMG_16_9_APP_INSTALL#645522883286327_650761136095835",
+	  
+	 
+      "UnityGame":"",
+      "UnityInterstitial":"Interstitial_Android",
+      "UnityBanner":"Banner_Android",
+      "UnityReward":"Rewarded_Android",
+
+	  
+      "ApplovinInterstitial":"",
+      "ApplovinBanner":"",
+      "ApplovinReward":"",
+	    
+		
+      "MaxInterstitial":"",
+      "MaxBanner":"",
+      "MaxReward" : "",
+
+
+      "UrlChat" : "http://147.182.128.234/chat/index.html#!/messages/",
+	  
+	  "UrlBanner" : "https://www.youtube.com/watch?v=f7AwXFziieI&ab_channel=Lyricsmusic",
+	  "UrlImage" : "https://blog.hubspot.com/hubfs/How%20to%20Explain%20Banner%20Ads%20to%20Anyone-5.png",
+
+      "NetworkBannerTop":"admob",
+      "NetworkBannerBottom":"fan",
+      "NetworkInterstitial":"admob",
+      "NetworkReward":"admob",
+      "NetworkInterstitialTime":"50",
+      "LockedGame":"true",
+      "LockedMessenger":"true",
+      "LockedVoice":"false",
+      "LockedVideo":"true"
+
+
+    
+	  
+	  
+ 
+    }
+  ]
+  
+  
+ 
+
+}
