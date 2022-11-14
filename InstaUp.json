@@ -26,9 +26,9 @@
          "AdsCount":"3",
          
          //huawei,admob,max,fan,unity
-         "SwitchBanner":"fan",
-         "SwitchNative":"admob",
-         "SwitchInter":"admob"
+          "SwitchBanner":"admob",
+         "SwitchNative":"max",
+         "SwitchInter":"max"
       }
    ],
    "list":[
