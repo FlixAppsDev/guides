@@ -27,8 +27,8 @@
          
          //huawei,admob,max,fan,unity
          "SwitchBanner":"admob",
-         "SwitchNative":"huawei",
-         "SwitchInter":"max"
+         "SwitchNative":"admob",
+         "SwitchInter":"admob"
       }
    ],
    "list":[
