@@ -5,23 +5,30 @@
          "AdmobBanner":"ca-app-pub-3940256099942544/6300978111",
          "AdmobNative":"ca-app-pub-3940256099942544/2247696110",
          "AdmobOpen":"ca-app-pub-3940256099942544/3419835294",
+         
          "FanInterstitial":"IMG_16_9_APP_INSTALL#645522883286327_650761136095835",
          "FanBanner":"IMG_16_9_APP_INSTALL#366986694895415_366986861562065",
          "FanNative":"IMG_16_9_APP_INSTALL#645522883286327_651620499343232",
+         
          "UnityGame":"",
          "UnityInterstitial":"Interstitial_Android",
          "UnityBanner":"Banner_Android",
          "UnityReword":"Rewarded_Android",
+         
          "MaxInterstitial":"f61b441068d4d9aa",
          "MaxBanner":"9522223551cf54b5",
          "MaxNative":"bf969135f8624e45",
+         
          "HuaweiInterstitial":"teste9ih9j0rc3",
          "HuaweiBanner":"testw6vs28auh3",
          "HuaweiNative":"testu7m3hc4gvm",
+         
          "AdsCount":"3",
-         "SwitchBanner":"huawei",
-         "SwitchNative":"fan",
-         "SwitchInter":"admob"
+         
+         //huawei,admob,max,fan,unity
+         "SwitchBanner":"admob",
+         "SwitchNative":"huawei",
+         "SwitchInter":"max"
       }
    ],
    "list":[
